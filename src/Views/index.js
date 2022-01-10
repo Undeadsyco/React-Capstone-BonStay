@@ -1,0 +1,9 @@
+export { default as Home } from './Home/Home';
+export { default as Login } from './Login/Login';
+export { default as Register } from './Register/Register';
+export { default as Hotels } from './Hotels/Hotels';
+export { default as BookingForm } from './BookingForm/BookingForm';
+export { default as Bookings } from './Booking/Bookings';
+export { default as Reschedule } from './Reschedule/Reschedule';
+export { default as ReviewForm } from './ReviewForm/ReviewForm';
+export { default as Reviews } from './Reviews/Reviews';

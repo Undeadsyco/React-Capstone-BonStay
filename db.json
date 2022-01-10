@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "Nicholas Santana",
+      "address": "831 south dellrose",
+      "phoneNo": 3162529687,
+      "email": "bubblebutt199891@gmail.com",
+      "password": "password1",
+      "id": 1
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "hotelName": "Paradise Stay",
+      "city": "Bangalore",
+      "description": "A home to relax at the 'city' peek with all the facilities near you",
+      "amanities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
+      "phoneNo": 9090909090,
+      "address": "120/1C, Bangalore, Karnataka",
+      "reviews": [
+        "Good Accomodations",
+        "Best place to relax with friends and family",
+        "The best place to chill with friends",
+        "The best place I ever visited",
+        "fvnwejivbwie",
+        "fvnwejivbwief kdw",
+        "bvsduibfewiuvbiw",
+        " vjdsnjaiscbs cscbsa cqc ascbuqiw",
+        "andw awbeygq uqwhe auhwe auheriqwj "
+      ]
+    },
+    {
+      "id": 2,
+      "hotelName": "Hill Palace",
+      "city": "Kocki",
+      "description": "A cool place to relax at Lake side",
+      "amanities": "Homely Food, Sea Food, Children's Park Boating",
+      "phoneNo": 9191919191,
+      "address": "90/1A",
+      "reviews": [
+        "Must visit place. The cuisine available here is so amazing.",
+        "My favorite place to relax on my vacations"
+      ]
+    },
+    {
+      "id": 3,
+      "hotelName": "Monsoon Stay",
+      "city": "Chennai",
+      "description": "A luxurious but affordable stay as in your home",
+      "amanities": "24 hr Homely Food, Security, Children's Park",
+      "phoneNo": 9292929292,
+      "address": "100/1A, Chennai, Tamil Nadu",
+      "reviews": []
+    },
+    {
+      "id": 4,
+      "hotelName": "Galaxy Paradise",
+      "city": "Mumbai",
+      "description": "An affordable family stay spot at the 'City' heart",
+      "amanities": "24 hr Homely Food, Swimming Pool, Security",
+      "phoneNo": 9393939393,
+      "address": "190/1B, Mumbai, Maharastra",
+      "reviews": []
+    }
+  ],
+  "bookings": [
+    {
+      "startDate": "2022-01-23",
+      "endDate": "2022-01-30",
+      "noOfPersons": 5,
+      "noOfRooms": 3,
+      "roomType": "AC",
+      "user": 1,
+      "hotelId": 2,
+      "hotelName": "Hill Palace",
+      "id": 2
+    }
+  ]
+}
